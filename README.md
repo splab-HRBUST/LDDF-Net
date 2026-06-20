@@ -17,14 +17,14 @@ python get_model.py
 
 ## 2. Finetune Whisper
 
-### 2. ESC-50 Experiment
+### 1. ESC-50 Experiment
 
 ```bash
 cd src/whisper_at_train/esc-50/
 ./run_esc.sh
 ```
 
-### 3. AudioSet20k Experiment
+### 2. AudioSet20k Experiment
 
 ```bash
 cd src/whisper_at_train/audioset20k/
